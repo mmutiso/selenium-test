@@ -1,0 +1,16 @@
+E:\Code\selenium-test\SeleniumTest\bin\Debug\netcoreapp3.1\SeleniumTest.exe
+E:\Code\selenium-test\SeleniumTest\bin\Debug\netcoreapp3.1\SeleniumTest.deps.json
+E:\Code\selenium-test\SeleniumTest\bin\Debug\netcoreapp3.1\SeleniumTest.runtimeconfig.json
+E:\Code\selenium-test\SeleniumTest\bin\Debug\netcoreapp3.1\SeleniumTest.runtimeconfig.dev.json
+E:\Code\selenium-test\SeleniumTest\bin\Debug\netcoreapp3.1\SeleniumTest.dll
+E:\Code\selenium-test\SeleniumTest\bin\Debug\netcoreapp3.1\SeleniumTest.pdb
+E:\Code\selenium-test\SeleniumTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Code\selenium-test\SeleniumTest\bin\Debug\netcoreapp3.1\WebDriver.dll
+E:\Code\selenium-test\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.csprojAssemblyReference.cache
+E:\Code\selenium-test\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.AssemblyInfoInputs.cache
+E:\Code\selenium-test\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.AssemblyInfo.cs
+E:\Code\selenium-test\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.csproj.CoreCompileInputs.cache
+E:\Code\selenium-test\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.csproj.CopyComplete
+E:\Code\selenium-test\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.dll
+E:\Code\selenium-test\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.pdb
+E:\Code\selenium-test\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.genruntimeconfig.cache
